@@ -2,7 +2,7 @@
 - 👀 I’m interested in Elixir/Phoenix projects.
 - 🌱 I’m currently learning advance level Erlang/Elixir.
 - 💞️ I’m looking to collaborate on Open source project.
-- 📫 How to reach me : vickky.devraj@gmail.com
+- 📫 How to reach me : vickky.dell@gmail.com
 
 <!---
 rathore-vicky/rathore-vicky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
