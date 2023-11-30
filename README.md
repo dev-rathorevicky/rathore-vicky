@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rathore-vicky
-- 👀 I’m interested in Elixir/Phoenix.
+- 👀 I’m interested in Elixir/Phoenix projects.
 - 🌱 I’m currently learning advance level Erlang/Elixir.
 - 💞️ I’m looking to collaborate on Open source project.
 - 📫 How to reach me : vickky.devraj@gmail.com
